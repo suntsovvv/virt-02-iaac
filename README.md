@@ -74,3 +74,10 @@ user@debian-docker-11:~$ tmux --help
 usage: tmux [-2CluvV] [-c shell-command] [-f file] [-L socket-name]
             [-S socket-path] [command [flags]]
 
+root@study:/home/user# yc compute image delete debian-11-docker
+done (17s)
+root@study:/home/user# yc compute image list
++----+------+--------+-------------+--------+
+| ID | NAME | FAMILY | PRODUCT IDS | STATUS |
++----+------+--------+-------------+--------+
++----+------+--------+-------------+--------+
