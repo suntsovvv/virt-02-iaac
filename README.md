@@ -1,4 +1,4 @@
-# virt-02-iaac
+
 Задача 2
 root@vagrant:/home/vagrant# docker version && docker compose version
 Client: Docker Engine - Community
