@@ -1,5 +1,6 @@
 
 ## Задача 2
+```
 root@vagrant:/home/vagrant# docker version && docker compose version
 Client: Docker Engine - Community
  Version:           24.0.7
@@ -29,10 +30,10 @@ Server: Docker Engine - Community
   Version:          0.19.0
   GitCommit:        de40ad0
 Docker Compose version v2.21.0
-
+```
 ## Задача 3
 
-
+```
 root@study:/home/user# yc compute image list
 +----------------------+------------------+--------+----------------------+--------+
 |          ID          |       NAME       | FAMILY |     PRODUCT IDS      | STATUS |
@@ -82,3 +83,4 @@ root@study:/home/user# yc compute image list
 | ID | NAME | FAMILY | PRODUCT IDS | STATUS |
 +----+------+--------+-------------+--------+
 +----+------+--------+-------------+--------+
+```
